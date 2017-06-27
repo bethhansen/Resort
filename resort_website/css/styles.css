@@ -1,5 +1,7 @@
 h1{
   text-align: center;
+  margin-top: 50px;
+  margin-bottom: 50px;
 }
 h2{
   text-align: center;
@@ -13,4 +15,29 @@ p{
 }
 div{
   text-align: center;
+}
+.img {
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+li {
+
+  height: 50px;
+  list-style: none;
+  /*margin-left: 200px;*/
+
+}
+body {
+  text-align: center;
+}
+
+.contact-color{
+  background-color: #E0F7F6;
+  /*height:
+  width: 100%;*/
+}
+img{
+  /*height: 200px;
+  width: 200px;*/
+
 }
